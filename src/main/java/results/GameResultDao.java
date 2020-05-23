@@ -19,7 +19,7 @@ public class GameResultDao extends GenericJpaDao<GameResult> {
     public static GameResultDao getInstance() {
         if (instance == null) {
             instance = new GameResultDao();
-            instance.setEntityManager(Persistence.createEntityManagerFactory("jpa-persistence-unit-1").createEntityManager());
+            instance.setEntityManager(Persistence.createEntityManagerFactory("coin-jpa").createEntityManager());
         }
         return instance;
     }
