@@ -8,12 +8,13 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.stage.Stage;
-import main.MyApplication;
+import lombok.extern.slf4j.Slf4j;
 
 import java.awt.*;
 import java.io.IOException;
 import javafx.scene.control.TextField;
 
+@Slf4j
 public class PlayerController {
 
 

@@ -2,17 +2,119 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baa63dd4-416d-4549-9aa2-aac20c66acc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/Controller/TestGameController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Final-Assignment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pom.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/controller/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/controller/PlayerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/controller/topFiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/controller/topFiveController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/main/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/main/MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/results/GameResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/results/GameResultZVHU97.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/results/GameResultDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/results/GameResultDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/results/GameResultExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/results/GameResultExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/results/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/results/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/util/jpa/GenericJpaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/util/jpa/GenericJpaDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/util/jpa/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/util/jpa/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/resources/conf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/resources/conf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/resources/fxml/first.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/resources/fxml/first.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/resources/fxml/game.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/resources/fxml/game.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/resources/fxml/topFive.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/resources/fxml/topFive.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/resources/pictures/Heads.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/resources/pictures/Heads.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/resources/pictures/Tails.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/resources/pictures/Tails.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/conf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/conf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/controller/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/controller/GameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/controller/PlayerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/controller/PlayerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/controller/topFiveController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/controller/topFiveController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/controller/topFiveController$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/controller/topFiveController.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/controller/topFiveController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/fxml/first.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/fxml/first.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/fxml/game.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/fxml/game.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/fxml/topFive.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/fxml/topFive.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/main/MyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/main/MyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/pictures/Heads.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/pictures/Heads.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/pictures/Tails.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/pictures/Tails.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/results/GameResult$GameResultBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/results/GameResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/results/GameResultDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/results/GameResultDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/results/GameResultExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/results/GameResultExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/classes/util/jpa/GenericJpaDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/classes/util/jpa/GenericJpaDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/META-INF/persistance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/META-INF/persistance.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/conf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/conf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/controller/GameController$__CLR4_3_100kajqy8tl$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/controller/GameController$__CLR4_3_100kajqy8tl$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/controller/GameController$__CLR4_3_100kajqy8tl.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/controller/GameController$__CLR4_3_100kajqy8tl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/controller/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/controller/GameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/controller/PlayerController$__CLR4_3_1c1c1kajqy8v1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/controller/PlayerController$__CLR4_3_1c1c1kajqy8v1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/controller/PlayerController$__CLR4_3_1c1c1kajqy8v1.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/controller/PlayerController$__CLR4_3_1c1c1kajqy8v1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/controller/PlayerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/controller/PlayerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/controller/topFiveController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/controller/topFiveController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/controller/topFiveController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/controller/topFiveController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/controller/topFiveController$__CLR4_3_1cccckajqy8vw$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/controller/topFiveController$__CLR4_3_1cccckajqy8vw$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/controller/topFiveController$__CLR4_3_1cccckajqy8vw.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/controller/topFiveController$__CLR4_3_1cccckajqy8vw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/controller/topFiveController.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/controller/topFiveController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/fxml/first.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/fxml/first.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/fxml/game.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/fxml/game.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/fxml/topFive.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/fxml/topFive.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/instrumentation.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/instrumentation.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/main/Main$__CLR4_3_1dcdckajqy8w2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/main/Main$__CLR4_3_1dcdckajqy8w2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/main/Main$__CLR4_3_1dcdckajqy8w2.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/main/Main$__CLR4_3_1dcdckajqy8w2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/main/MyApplication$__CLR4_3_1dedekajqy8w6$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/main/MyApplication$__CLR4_3_1dedekajqy8w6$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/main/MyApplication$__CLR4_3_1dedekajqy8w6.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/main/MyApplication$__CLR4_3_1dedekajqy8w6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/main/MyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/main/MyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/pictures/Heads.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/pictures/Heads.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/pictures/Tails.png" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/pictures/Tails.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResult$GameResultBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResult$GameResultBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResult$__CLR4_3_1dkdkkajqy8wc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResult$__CLR4_3_1dkdkkajqy8wc$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResult$__CLR4_3_1dkdkkajqy8wc.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResult$__CLR4_3_1dkdkkajqy8wc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResultDao$__CLR4_3_1dmdmkajqy8wi$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResultDao$__CLR4_3_1dmdmkajqy8wi$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResultDao$__CLR4_3_1dmdmkajqy8wi.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResultDao$__CLR4_3_1dmdmkajqy8wi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResultDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResultDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResultExample$__CLR4_3_1dxdxkajqy8wn$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResultExample$__CLR4_3_1dxdxkajqy8wn$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResultExample$__CLR4_3_1dxdxkajqy8wn.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResultExample$__CLR4_3_1dxdxkajqy8wn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResultExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/results/GameResultExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/util/jpa/GenericJpaDao$__CLR4_3_1e3e3kajqy8wy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/util/jpa/GenericJpaDao$__CLR4_3_1e3e3kajqy8wy$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/util/jpa/GenericJpaDao$__CLR4_3_1e3e3kajqy8wy.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/util/jpa/GenericJpaDao$__CLR4_3_1e3e3kajqy8wy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/classes/util/jpa/GenericJpaDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/classes/util/jpa/GenericJpaDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/clover.db" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/clover.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/coin-game-1.0-clover.jar" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/coin-game-1.0-clover.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/original-coin-game-1.0-clover.jar" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/original-coin-game-1.0-clover.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/src/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/src/controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/src/controller/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/src/controller/PlayerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/src/controller/topFiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/src/controller/topFiveController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/src/main/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/src/main/MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/src/results/GameResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/src/results/GameResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/src/results/GameResultDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/src/results/GameResultDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/src/results/GameResultExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/src/results/GameResultExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/src/results/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/src/results/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/src/util/jpa/GenericJpaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/src/util/jpa/GenericJpaDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/clover/src/util/jpa/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/clover/src/util/jpa/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/controller/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/PlayerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controller/topFiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/topFiveController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/results/GameResultExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/results/GameResultExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/topFive.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/topFive.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/GameController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/topFiveController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/topFiveController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fxml/topFive.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/topFive.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/results/GameResultExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/results/GameResultExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/PlayerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/PlayerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Controller/TestGameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Controller/TestGameController.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +133,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\DELL\Documents\software engineering\Final-Assignment\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -44,8 +153,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Mohamed/Chess_SWE_Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -122,7 +230,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

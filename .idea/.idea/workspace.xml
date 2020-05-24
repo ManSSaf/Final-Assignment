@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baa63dd4-416d-4549-9aa2-aac20c66acc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coin-game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/PlayerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/topFiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/topFiveController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/results/GameResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/results/GameResultZVHU97.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/results/GameResultDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/results/GameResultDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/results/GameResultExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/results/GameResultExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/game.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/game.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/topFive.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/topFive.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/conf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/conf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/GameController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/PlayerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/PlayerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/topFiveController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/topFiveController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/topFiveController$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/topFiveController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/topFiveController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/first.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/first.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/game.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/game.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/topFive.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/topFive.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/MyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/MyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/results/GameResult$GameResultBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/results/GameResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/results/GameResultDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/results/GameResultDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/results/GameResultExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/results/GameResultExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/jpa/GenericJpaDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/jpa/GenericJpaDao.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c3TX0eoBUlpo6TpIdf3TuIHTTr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GameResultExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="results.GameResultExample" />
+      <module name="coin-game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="coin-game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GameResultExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baa63dd4-416d-4549-9aa2-aac20c66acc2" name="Default Changelist" comment="" />
+      <created>1589756312568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589756312568</updated>
+      <workItem from="1590352798408" duration="681000" />
+      <workItem from="1590353535151" duration="2416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="544" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590353058929">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="544" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1590353058929" />
+    <state width="1638" height="273" key="GridCell.Tab.0.bottom" timestamp="1590355992957">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="273" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590355992957" />
+    <state width="1638" height="273" key="GridCell.Tab.0.center" timestamp="1590355992956">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="273" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590355992956" />
+    <state width="1638" height="273" key="GridCell.Tab.0.left" timestamp="1590355992956">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="273" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590355992956" />
+    <state width="1638" height="273" key="GridCell.Tab.0.right" timestamp="1590355992957">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="273" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590355992957" />
+    <state x="498" y="304" width="683" height="476" key="find.popup" timestamp="1590355984101">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="498" y="287" width="683" height="476" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590198988375" />
+    <state x="498" y="304" width="683" height="476" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1590355984101" />
+  </component>
+</project>
