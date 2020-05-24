@@ -4,11 +4,10 @@ package results;
 import java.time.Duration;
 
 public class GameResultExample {
-
     public static void main(String[] args) {
         GameResultDao gameResultDao = GameResultDao.getInstance();
         GameResult gameResult = GameResult.builder()
-                .player("jeszy")
+                .player("playerWon")
                 .solved(true)
                 .steps(36)
                 .duration(Duration.ofMinutes(3))

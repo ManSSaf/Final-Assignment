@@ -28,7 +28,7 @@ import java.util.List;
 public class topFiveController {
 
     @FXML
-    private TableView<GameResult> toptenTable;
+    private TableView<GameResult> topfiveTable;
 
     @FXML
     private TableColumn<GameResult, String> player;
@@ -46,7 +46,7 @@ public class topFiveController {
 
     public void back(ActionEvent actionEvent) throws IOException {
 
-        Parent root = FXMLLoader.load(getClass().getResource("/fxml/launch.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("/fxml/first.fxml"));
         Stage stage = (Stage) ((Node) actionEvent.getSource()).getScene().getWindow();
         stage.setScene(new Scene(root));
         stage.show();
@@ -58,7 +58,7 @@ public class topFiveController {
     public void initialize() {
         gameResultDao = GameResultDao.getInstance();
 
-        List<GameResult> toptenList = gameResultDao.findBest(10);
+        List<GameResult> topfiveList = gameResultDao.findBest(5);
 
         player.setCellValueFactory(new PropertyValueFactory<>("player"));
         steps.setCellValueFactory(new PropertyValueFactory<>("steps"));
@@ -104,9 +104,9 @@ public class topFiveController {
         });
 
         ObservableList<GameResult> observableResult = FXCollections.observableArrayList();
-        observableResult.addAll(toptenList);
+        observableResult.addAll(topfiveList);
 
-        toptenTable.setItems(observableResult);
+        topfiveTable.setItems(observableResult);
     }
 
 }

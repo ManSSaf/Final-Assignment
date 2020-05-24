@@ -96,6 +96,7 @@ public class GameController {
     private String playerWon;
 
 
+
     public void initdata(String PL1, String PL2) {
         this.PL1 = PL1;
         this.PL2 = PL2;
@@ -114,6 +115,7 @@ public class GameController {
         return false;
     };
 
+
     public void turnTails1(MouseEvent mouseEvent) {
         if (headsTails1==0) {
             coin1.setImage(image);
@@ -127,7 +129,7 @@ public class GameController {
                 numSteps = 0;
             }
         }
-        else{
+        else if (numSteps==1 || numSteps==3){
             coin1.setImage(image1);
             stepNumber();
             headsTails1 = 0;
@@ -161,7 +163,7 @@ public class GameController {
                 numSteps = 0;
             }
         }
-        else{
+        else if (numSteps==1 || numSteps==3){
             coin2.setImage(image1);
             stepNumber();
             headsTails2 = 0;
@@ -194,7 +196,7 @@ public class GameController {
                 numSteps = 0;
             }
         }
-        else{
+        else if (numSteps==1 || numSteps==3){
             coin3.setImage(image1);
             stepNumber();
             headsTails3 = 0;
@@ -226,7 +228,7 @@ public class GameController {
                 numSteps = 0;
             }
         }
-        else{
+        else if (numSteps==1 || numSteps==3){
             coin4.setImage(image1);
             stepNumber();
             headsTails4 = 0;
@@ -258,7 +260,7 @@ public class GameController {
                 numSteps = 0;
             }
         }
-        else{
+        else if (numSteps==1 || numSteps==3){
             coin5.setImage(image1);
             stepNumber();
             headsTails5 = 0;
@@ -290,7 +292,7 @@ public class GameController {
                 numSteps = 0;
             }
         }
-        else{
+        else if (numSteps==1 || numSteps==3){
             coin6.setImage(image1);
             stepNumber();
             headsTails6 = 0;
@@ -322,7 +324,7 @@ public class GameController {
                 numSteps = 0;
             }
         }
-        else{
+        else if (numSteps==1 || numSteps==3){
             coin7.setImage(image1);
             stepNumber();
             headsTails7 = 0;
@@ -354,7 +356,7 @@ public class GameController {
                 numSteps = 0;
             }
         }
-        else{
+        else if (numSteps==1 || numSteps==3){
             coin8.setImage(image1);
             stepNumber();
             headsTails8 = 0;
@@ -386,7 +388,7 @@ public class GameController {
                 numSteps = 0;
             }
         }
-        else{
+        else if (numSteps==1 || numSteps==3){
             coin9.setImage(image1);
             stepNumber();
             headsTails9 = 0;
@@ -418,7 +420,7 @@ public class GameController {
                 numSteps = 0;
             }
         }
-        else{
+        else if (numSteps==1 || numSteps==3){
             coin10.setImage(image1);
             stepNumber();
             headsTails10 = 0;
@@ -480,7 +482,6 @@ public class GameController {
     }
 
     private GameResult getResult() {
-
         GameResult result = GameResult.builder()
                 .player(playerWon)
                 .solved(isSolved())
@@ -490,7 +491,11 @@ public class GameController {
         return result;
     }
 
-
+    /**
+     *
+     * @param actionEvent An action which is sent when a button is pressed.
+     * @throws IOException An exception that is caught if an error occurs.
+     */
     public void finishGame(ActionEvent actionEvent) throws IOException {
         if (isSolved()) {
             System.out.println(getResult());
@@ -501,7 +506,7 @@ public class GameController {
         Stage stage = (Stage) ((Node) actionEvent.getSource()).getScene().getWindow();
         stage.setScene(new Scene(root));
         stage.show();
-        log.info("Finished game, loading Top Ten scene.");
+        log.info("Finished game, loading Top Five scene.");
     }
 
 }

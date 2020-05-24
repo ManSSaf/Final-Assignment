@@ -34,15 +34,17 @@ public class PlayerController {
 
 
 
-//        public void switchMode(ActionEvent Event) throws IOException {
-//                Parent root = FXMLLoader.load(MyApplication.class.getResource("/fxml/game.fxml"));
-//                Stage stage= (Stage) ((Node) Event.getSource()).getScene().getWindow();
-//                stage.setScene(new Scene(root));
-//                stage.show();
-//        }
+        /**
+         * Checks whether one of the player's names is empty, if so an error label will show up with a message,
+         * providing them with the problem,then sets the player names and
+         * loads game.fxml with the player's names accordingly.
+         * @param actionEvent A mouse event, in this case onAction.
+         * @throws IOException An exception that is caught if an error occurs.
+         */
+
         public void startAction(ActionEvent actionEvent) throws IOException {
                 if (firstName.getText().isEmpty() || secondName.getText().isEmpty()) {
-                        errorLabel.setText("* Username is empty!");
+                        errorLabel.setText("* Player names are empty!");
                 } else {
                         FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/fxml/game.fxml"));
                         Parent root = fxmlLoader.load();
@@ -50,7 +52,8 @@ public class PlayerController {
                         Stage stage = (Stage) ((Node) actionEvent.getSource()).getScene().getWindow();
                         stage.setScene(new Scene(root));
                         stage.show();
-//                        log.info("Username is set to {}, loading game scene.", FirstName.getText());
+                        log.info("First player is set to {}, loading game scene.", firstName.getText());
+                        log.info("Second player is set to {}, loading game scene.", secondName.getText());
                 }
 
         }
